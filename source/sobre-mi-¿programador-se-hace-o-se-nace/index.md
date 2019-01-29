@@ -2,9 +2,8 @@
 title: 'Sobre mí: ¿Programador se hace o se nace?'
 date: 2019-01-27 15:09:24
 ---
-# Sobre mí:  ¿Programador se hace o se nace?
 
-Esto es una historia autobiográfica acerca de mi relación con la programación. De cómo siempre ha estado presente en mi vida desde que yo recuerdo.
+Esto es una historia autobiográfica acerca de mi relación con la programación. De cómo siempre ha estado presente en mi vida desde que yo recuerdo y de cómo se convirtió en mi trabajo.
 
 ## En la Prehistoria.
 
@@ -49,6 +48,10 @@ El problema es que montar un servidor Apache no era algo que el departamento de 
 #### Resurrección.
 
 Aunque yo usaba habitualmente **vba** para **programar en Excel**, nunca había hecho nada muy elaborado en **Access**. Tras varios libros de Access Avanzado y muchas consultas a internet, acabé montando una aplicación completísima. **Mucho más completa que la anterior.** Integrada con Word para generar las resoluciones a partir de **plantillas word** (.dotx) modificables por el usuario, utilizando tablas en las que **se combinan celdas al vuelo** y automatizando el **envío de emails con Outlook.** Al final le acabé cogiendo el gusto y todo a los Recordsets de Access. Actualmente, sólo se necesita **un funcionario** dedicado a esa labor, aquella que antaño ocupaba a 5, y además dedica sólo una pequeña fracción de su tiempo a ello, ya que tiene asignadas también muchas otras funciones. Es decir, que **el programa redujo aproximadamente 30 o 50 veces la carga de trabajo.**
+
+## La Universidad (Segunda parte)
+
+A los pocos años de estar en Girona, decidí reemprender los estudios de matemáticas. Hice traslado de expediente a la UNED y fui cogiendo asignaturas sueltas, haciendo poco a poco. Aunque en Santiago había tocado algo de **LaTeX**, siempre me había quedado con las ganas de ponerme a fondo con ello. Lo hice en esta época. Además cursé asignaturas como **Programación Lineal y Entera**, en donde se estudiaban algoritmos de optimización, **Programación**, en la que básicamente se estudiaba **C++**, o **Análisis Numérico Matricial**, en la que se estudiaba la representación numérica en el ordenador y los algoritmos y métodos de optimización: cómo prever y evitar que los errores de redondeo se propaguen y crezcan al realizar cálculos, cómo representar y operar con grandes conjuntos de datos dispersos, etc.
 
 ## Hosting, dominios y páginas web.
 

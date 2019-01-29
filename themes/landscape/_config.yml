@@ -1,7 +1,10 @@
 # Header
 menu:
   Home: /
-  Sobre mí: /sobre-mi-¿programador-se-hace-o-se-nace
+  Sobre mí:
+    parte 1: /sobre-mi-programador-se-hace-o-se-nace-parte-1-de-3
+    parte 2: /sobre-mi-programador-se-hace-o-se-nace-parte-2-de-3
+    parte 3: /sobre-mi-programador-se-hace-o-se-nace-parte-3-de-3
   Archives: /archives
 rss: /atom.xml
 

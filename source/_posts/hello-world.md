@@ -59,5 +59,8 @@ Más info: [Deployment](https://hexo.io/docs/deployment.html)
 ### Lo subimos a github.com
 
 ```` bash
+$ git pull
+$ git add .
+$ git commit -m "descripción de los cambios"
 $ git push
 ````

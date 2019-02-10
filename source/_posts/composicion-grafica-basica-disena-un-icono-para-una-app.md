@@ -1,5 +1,6 @@
 ---
 title: Composición gráfica básica. Diseña un icono para una app.
+index: false
 tags:
   - illustrator
   - apps
@@ -10,7 +11,6 @@ categories:
   - diseño gráfico
 date: 2019-02-06 08:47:24
 ---
-
 
 **Calificación:** A (Sobresaliente).
 

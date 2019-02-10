@@ -2,6 +2,7 @@
 title: >-
   Combinacion de imágenes vectoriales y derechos de autor. ¿Cómo gestionar los
   derechos?
+index: false
 tags:
   - illustrator
   - derechos de autor
@@ -22,7 +23,7 @@ En esta actividad, se nos proporcionó el enunciado en un pdf de 25 páginas, qu
 
 Concretamente, el enunciado especificaba:
 
-##Encargo.
+## Encargo.
 
 >Crearemos, a partir de la combinación de dos originales digitales vectoriales de la red, una obra gráfica que ilustre un hipotético artículo periodístico sobre:
 >

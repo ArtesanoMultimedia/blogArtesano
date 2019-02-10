@@ -1,5 +1,6 @@
 ---
 title: Hello World
+index: true
 ---
 Este es el primer post de este blog, y aunque mi primera idea era eliminarlo y posteriormente pensé en dejarlo tal y como se autogenera, he decidido finalmente modificarlo un poco.
 

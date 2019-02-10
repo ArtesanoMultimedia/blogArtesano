@@ -15,7 +15,7 @@ timezone: Europe/Madrid
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://ArtesanoMultimedia.github.io/blogArtesano/
 root: /blogArtesano/
-permalink: :title/
+permalink: :category/:title.html
 permalink_defaults:
 
 # Directory

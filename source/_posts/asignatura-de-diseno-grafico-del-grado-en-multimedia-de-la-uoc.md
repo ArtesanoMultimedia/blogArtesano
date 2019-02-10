@@ -64,5 +64,3 @@ Calificación: **A (Sobresaliente)**.
 [![previsualización del arte final: Newsletter](/blogArtesano/images/asignaturas/diseno-grafico/practica/newsletter.png "Newsletter Ciclo Senderismo")](grado-multimedia/asignaturas/diseno-grafico/creatividad-y-composicion-grafica-disena-un-newsletter.html)
 
 Calificación: **A (Sobresaliente)**.
-
----

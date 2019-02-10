@@ -4,7 +4,10 @@ tags:
   - indesign
   - impresión
   - gestalt
+  - donis dondis
   - newsletter
+  - tipografía
+  - color
   - practica final
 index: false
 categories:
@@ -35,14 +38,14 @@ Concretamente, el enunciado especificaba:
 
 ## Información complementaria.
 
-En esta actividad se nos pedía integrar mucha información, tanto textua como gráfica, en un newsletter.
+En esta actividad se nos pedía **integrar mucha información**, tanto textual como gráfica, en un newsletter.
 
-Una de las principales tareas era encargarse de la Arquitectura de la Información, estableciendo la jerarquía de los contenidos y realizando una presentación consecuente.
+Una de las principales tareas era encargarse de la **Arquitectura de la Información**, estableciendo la jerarquía de los contenidos y realizando una presentación consecuente.
 
 El enunciado requería:
-* Aplicación de una técnica de composición visual basada en uno de los diferentes contrastes compositivos propuestos por Donis A. Dondis.
-* Articulación de una combinación cromática concreta de los diferentes contrastes de color propuestos en los materiales del curso.
-* Selección de dos (y sólo dos) familias tipográficas diferenciadas (con sus series o pesos de redonda, cursiva, negrita y otras) y maquetar los contenidos textuales desplegando este juego tipográfico.
+* Aplicación de una técnica de composición visual basada en uno de los diferentes **contrastes compositivos** propuestos por Donis A. Dondis.
+* Articulación de una **combinación cromática** concreta de los diferentes contrastes de color propuestos en los materiales del curso.
+* Selección de dos (y sólo dos) **familias tipográficas** diferenciadas (con sus series o pesos de redonda, cursiva, negrita y otras) y maquetar los contenidos textuales desplegando este juego tipográfico.
 
 La elección de colores la hice en base a los colores que evoca la actividad anunciada: el blanco y el azul cielo, evocan la sensación de libertad que proporciona el senderismo, los colores marrones, evocan la tierra de los senderos y el verde, la vegetación y, por extensión, la naturaleza.
 

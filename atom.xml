@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Artesano Multimedia</title>
+  <icon>https://www.gravatar.com/avatar/c62309a72682527f298faf391b4a08b6</icon>
+  
+  <link href="/blogArtesano/atom.xml" rel="self"/>
+  
+  <link href="https://ArtesanoMultimedia.github.io/blogArtesano/"/>
+  <updated>2019-02-15T04:54:30.194Z</updated>
+  <id>https://ArtesanoMultimedia.github.io/blogArtesano/</id>
+  
+  <author>
+    <name>Carlos Rodríguez López</name>
+    <email>artesanomultimedia@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Conceptos básicos y fundamentos de HTML y CSS.</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/lenguaje-y-estandares-web/conceptos-basicos-y-fundamentos-de-html-y-css.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/lenguaje-y-estandares-web/conceptos-basicos-y-fundamentos-de-html-y-css.html</id>
+    <published>2019-02-14T04:54:34.000Z</published>
+    <updated>2019-02-15T04:54:30.194Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Calificación:</strong> A (Sobresaliente).</p><p><strong>Licencia:</strong> Creative Commons Atribución Compartir Igual 4.0 Internacional (BY-SA).</p><hr><p>Esta actividad constaba de dos partes, la primera <strong>teórica</strong> y la segunda, <strong>práctica</strong>.</p><h2 id="Encargo"><a href="#Encargo" class="headerlink" title="Encargo."></a>Encargo.</h2><p>En la parte teórica había que responder a las siguientes cuestiones:</p><ol><li>Explica brevemente las razones por las que es importante <strong>separar el código del diseño</strong>.</li><li>Explica brevemente qué son las <strong>pseudoclases</strong> y los <strong>pseudoelementos</strong>. Explica y pon un <strong>ejemplo práctico</strong> del uso de 3 pseudoclases y 3 pseudoelementos.</li><li>Explica de forma breve qué es y cómo funciona el m<strong>ecanismo en cascada en el lenguaje CSS</strong>. ¿Cómo indicarías que una regla debe de prevalecer siempre en caso de conflicto?</li><li>1.Explica para qué sirven las propiedades <strong>font-family</strong> y <strong>@font-face.</strong><ol start="2"><li>Escribe un <strong>ejemplo de código</strong> de cómo aplicarías la <strong>propiedad font-family</strong> a un párrafo que tenga un tamaño de letra 0.8em, un estilo itálica, justificación completa y que utilice las fuentes Arial, Helvetica, sans-serif.</li><li>Escribe un ejemplo de código de <strong>cómo usarías la fuente AMARANTH</strong> en una web utilizando la propiedad @font-face</li></ol></li></ol><p>La parte práctica consistía en pasar una imagen .png a HTML y CSS.</p><h2 id="Informacion-complementaria"><a href="#Informacion-complementaria" class="headerlink" title="Información complementaria."></a>Información complementaria.</h2><p>A esta primera actividad le acabé dedicando mucho más tiempo del que había creído que necesitaría por las siguientes razones:</p><p>En la parte teórica, aunque a priori eran cosas que sabía, me encontré con que explicarlas por escrito no me era tan fácil como había pensado.</p><p>En la parte práctica, no era tan importante que el resultado visual fuera exactamente igual al modelo como hacer un buen marcado HTML y usar correctamente el CSS. Concretamente se pedía:</p><blockquote><p>Al crear el documento <strong>HTML</strong>, deberás utilizar <strong>las mejores técnicas de marcado</strong> explicadas en el material docente de la asignatura consiguiendo un <strong>marcado estructural y semántico</strong> apropiado.</p></blockquote><p>Además, había que añadir al documento con las respuestas de la parte teórica una <strong>explicación de todo el código</strong> html y css utilizado. Eso fue a lo que más tiempo dediqué.</p><p>Por otra parte, procuré generar un <strong>código lo más limpio y legible posible</strong>.</p><p>Destacaría además que, en la búsquedad de la excelencia, utilicé <a href="https://schema.org" target="_blank" rel="noopener">Schema</a> para el marcado de <strong>microdatos</strong>, marqué los <strong>cambios de idioma</strong>, la <strong>fecha</strong> con la etiqueta <code>&lt;time&gt;</code>, las <strong>abreviaturas</strong>, etc.</p><h2 id="Arte-Final"><a href="#Arte-Final" class="headerlink" title="Arte Final."></a>Arte Final.</h2><p><img src="/blogArtesano/images/asignaturas/lew/pec1/buenaspracticas.png" alt="previsualización de la página a replicar" title="Artículo: Buenas prácticas"></p><p>Dejo aquí el enlace al <a href="https://github.com/ArtesanoMultimedia/LEW-PEC1" target="_blank" rel="noopener">repositorio de github</a> con el código completo y la imagen de partida en alta calidad.</p><p>Dejo aquí también <a href="/blogArtesano/documents/asignaturas/lew/pec1/informe-pec1.pdf"><strong>el informe</strong> (383 KB) que acompañaba a mi trabajo</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Calificación:&lt;/strong&gt; A (Sobresaliente).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licencia:&lt;/strong&gt; Creative Commons Atribución Compartir Igual 4.0 Inter
+      
+    
+    </summary>
+    
+      <category term="grado-multimedia" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/"/>
+    
+      <category term="asignaturas" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/"/>
+    
+      <category term="lenguaje y estándares web" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/lenguaje-y-estandares-web/"/>
+    
+    
+      <category term="html y css" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/html-y-css/"/>
+    
+      <category term="microdatos" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/microdatos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Creatividad y composición gráfica. Diseña un newsletter.</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/creatividad-y-composicion-grafica-disena-un-newsletter.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/creatividad-y-composicion-grafica-disena-un-newsletter.html</id>
+    <published>2019-02-10T17:15:59.000Z</published>
+    <updated>2019-02-10T17:23:35.802Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Calificación:</strong> A (Sobresaliente).</p><p><strong>Licencia:</strong> Creative Commons Atribución Compartir Igual 4.0 Internacional (BY-SA).</p><hr><p>En esta actividad, se nos proporcionó el enunciado en un pdf de 25 páginas, que especificaba el <strong>briefing</strong> y los <strong>requisitos técnicos</strong> que debía cumplir el arte final.</p><p>Concretamente, el enunciado especificaba:</p><h2 id="Encargo"><a href="#Encargo" class="headerlink" title="Encargo."></a>Encargo.</h2><blockquote><p>Maquetar una newsletter (boletín informativo) que anuncia un nuevo ciclo de excursiones de senderismo llamado Senderismo en familia que organiza el Centro Excursionista de Catalunya (CEC).</p><p>Es un ciclo de 6 salidas por diferentes espacios naturales y ciudades de Cataluña.</p><p>El CEC, con la esperanza de que este ciclo y su difusión suponga más visibilidad para la entidad y el acercamiento del público familiar, se propone organizar un ciclo de salidas de senderismo de otoño-invierno (el que se anuncia ahora) y otro de primavera-verano. Para comunicar y facilitar la inscripción al ciclo mediante la web se aprovechará el formato de newsletter.</p></blockquote><h2 id="Informacion-complementaria"><a href="#Informacion-complementaria" class="headerlink" title="Información complementaria."></a>Información complementaria.</h2><p>En esta actividad se nos pedía <strong>integrar mucha información</strong>, tanto textual como gráfica, en un newsletter.</p><p>Una de las principales tareas era encargarse de la <strong>Arquitectura de la Información</strong>, estableciendo la jerarquía de los contenidos y realizando una presentación consecuente.</p><p>El enunciado requería:</p><ul><li>Aplicación de una técnica de composición visual basada en uno de los diferentes <strong>contrastes compositivos</strong> propuestos por Donis A. Dondis.</li><li>Articulación de una <strong>combinación cromática</strong> concreta de los diferentes contrastes de color propuestos en los materiales del curso.</li><li>Selección de dos (y sólo dos) <strong>familias tipográficas</strong> diferenciadas (con sus series o pesos de redonda, cursiva, negrita y otras) y maquetar los contenidos textuales desplegando este juego tipográfico.</li></ul><p>La elección de colores la hice en base a los colores que evoca la actividad anunciada: el blanco y el azul cielo, evocan la sensación de libertad que proporciona el senderismo, los colores marrones, evocan la tierra de los senderos y el verde, la vegetación y, por extensión, la naturaleza.</p><h2 id="Arte-final"><a href="#Arte-final" class="headerlink" title="Arte final."></a>Arte final.</h2><p><img src="/blogArtesano/images/asignaturas/diseno-grafico/practica/newsletter.png" alt="previsualización del arte final: Newsletter." title="Newsletter Ciclo Senderismo"></p><p><a href="/blogArtesano/documents/asignaturas/diseno-grafico/practica/newsletter.pdf"><strong>Newsletter en pdf</strong> (1.67 MB)</a> para visualización en pantalla.</p><p>En el <a href="/blogArtesano/documents/asignaturas/diseno-grafico/practica/informe-practica.pdf"><strong>el informe</strong> (1.77 MB)</a> explico los conceptos utilizados y la razón de algunas elecciones del diseño.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Calificación:&lt;/strong&gt; A (Sobresaliente).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licencia:&lt;/strong&gt; Creative Commons Atribución Compartir Igual 4.0 Inter
+      
+    
+    </summary>
+    
+      <category term="grado-multimedia" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/"/>
+    
+      <category term="asignaturas" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/"/>
+    
+      <category term="diseño gráfico" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/diseno-grafico/"/>
+    
+    
+      <category term="indesign" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/indesign/"/>
+    
+      <category term="gestalt" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/gestalt/"/>
+    
+      <category term="color" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/color/"/>
+    
+      <category term="tipografía" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/tipografia/"/>
+    
+      <category term="impresión" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/impresion/"/>
+    
+      <category term="donis dondis" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/donis-dondis/"/>
+    
+      <category term="newsletter" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/newsletter/"/>
+    
+      <category term="practica final" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/practica-final/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Composición gráfica avanzada: Diseña un producto editorial.</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-avanzada-disena-un-producto-editorial.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-avanzada-disena-un-producto-editorial.html</id>
+    <published>2019-02-10T17:15:28.000Z</published>
+    <updated>2019-02-10T17:15:28.784Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Calificación:</strong> A (Sobresaliente).</p><p><strong>Licencia:</strong> Creative Commons Atribución Compartir Igual 4.0 Internacional (BY-SA).</p><hr><p>En esta actividad, se nos proporcionó el enunciado en un pdf de 21 páginas, que especificaba el <strong>briefing</strong> y los <strong>requisitos técnicos</strong> que debía cumplir el arte final.</p><p>Concretamente, el enunciado especificaba:</p><h2 id="Encargo"><a href="#Encargo" class="headerlink" title="Encargo."></a>Encargo.</h2><blockquote><p><strong>Maquetaréis un folleto informativo para unas conferencias entorno a la repercusión social de los utensilios de cerámica.</strong></p><p><strong>Las conferencias se enmarcan en la exposición “Cerámica y alimentación”.</strong></p><p>Las conferencias forman parte del ciclo que ha preparado el Pottery Museum de Barcelona. El museo no es real, pero sí que lo es a todos los efectos académicos.</p><p>Estas conferencias (dos sesiones) se centran concretamente en el estudio y análisis de la repercusión de la cerámica en la historia de la humanidad.</p><p>El producto de 8 páginas en total (cubiertas y seis páginas interiores) presentará el programa para las dos sesiones.</p></blockquote><h2 id="Informacion-complementaria"><a href="#Informacion-complementaria" class="headerlink" title="Información complementaria."></a>Información complementaria.</h2><p>Para esta actividad de maquetación de un folleto, se nos daba el <strong>texto</strong> y una <strong>colección de imágenes</strong> que debíamos usar.</p><p>Las fotografías era bastante malas en cuanto a falta de <em>aire</em> y fondos descuidados:</p><table><thead><tr><th><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec3/Picture2.png" alt="Jarrón sin aire." title="Jarrón sin aire."></th><th><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec3/Picture4.png" alt="Jarrón con fondo cutre." title="Jarrón con fondo cutre."></th></tr></thead><tbody><tr><td></td></tr></tbody></table><p>Por lo que opté por crear un fondo sobre el que colocar las imágenes recortadas.</p><p>También el logo del supuesto museo dejaba mucho que desear, aunque era obligatorio utilizarlo en su versión original de color positivo.</p><h2 id="Arte-Final"><a href="#Arte-Final" class="headerlink" title="Arte Final."></a>Arte Final.</h2><p><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec3/portada.png" alt="previsualización del arte final: Portada del folleto." title="Icono app"></p><p><a href="/blogArtesano/documents/asignaturas/diseno-grafico/pec3/folleto-rgb.pdf"><strong>Folleto completo</strong> (3.24 MB)</a> para visualización en pantalla.</p><p>En el <a href="/blogArtesano/documents/asignaturas/diseno-grafico/pec3/informe-pec3.pdf"><strong>el informe</strong> (2.03 MB)</a> explico los conceptos utilizados y la razón de algunas elecciones del diseño.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Calificación:&lt;/strong&gt; A (Sobresaliente).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licencia:&lt;/strong&gt; Creative Commons Atribución Compartir Igual 4.0 Inter
+      
+    
+    </summary>
+    
+      <category term="grado-multimedia" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/"/>
+    
+      <category term="asignaturas" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/"/>
+    
+      <category term="diseño gráfico" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/diseno-grafico/"/>
+    
+    
+      <category term="indesign" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/indesign/"/>
+    
+      <category term="gestalt" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/gestalt/"/>
+    
+      <category term="impresión" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/impresion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Composición gráfica básica. Diseña un icono para una app.</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-basica-disena-un-icono-para-una-app.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-basica-disena-un-icono-para-una-app.html</id>
+    <published>2019-02-06T07:47:24.000Z</published>
+    <updated>2019-02-10T17:26:27.235Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Calificación:</strong> A (Sobresaliente).</p><p><strong>Licencia:</strong> Creative Commons Atribución Compartir Igual 4.0 Internacional (BY-SA).</p><hr><p>En esta actividad, se nos proporcionó el enunciado en un pdf de 21 páginas, que especificaba el <strong>briefing</strong> y los <strong>requisitos técnicos</strong> que debía cumplir el arte final.</p><p>Concretamente, el enunciado especificaba:</p><h2 id="Encargo"><a href="#Encargo" class="headerlink" title="Encargo."></a>Encargo.</h2><blockquote><p>Se debe desarrollar una propuesta gráfica para identificar una app dirigida a tablets y smartphones. La finalidad de la aplicación móvil (app) sería facilitar información e inscripción:</p><p><strong>Una plataforma para hacer de voluntario en entidades sin ánimo de lucro.</strong></p><p>La aplicación es un directorio de todos los proyectos de voluntariado que desarrollen las organizaciones y entidades sin ánimo de lucro en tu barrio o localidad. El usuario se da de alta, localiza y se apunta como voluntario a diversos proyectos que administren estas entidades. La búsqueda de los proyectos de voluntariado se puede realizar a través de un directorio, un mapa o el ámbito temático en el que la persona voluntaria quiera colaborar. Como detalle, incorpora una función de recordatorio de los proyectos de voluntariado donde el usuario se ha inscrito y que se puede sincronizar con la propia agenda personal (iCal, Google Calendar, Evernote, etc.) a fin de incorporar la acción de  voluntariado a nuestra vida cotidiana.</p></blockquote><h2 id="Informacion-complementaria"><a href="#Informacion-complementaria" class="headerlink" title="Información complementaria."></a>Información complementaria.</h2><p>Esta era la segunda actividad de la asignatura y exigía poner en práctica más conocimientos que la anterior. En concreto había que poner en práctica conceptos de <strong>percepción</strong> (principios y leyes de la Gestalt), <strong>composición</strong> y <strong>color</strong>.</p><p>Además, se pedía que se crearan <strong>variantes para distintos formatos</strong>, tamaños o medio: visualización en pantalla o imprimir. Por lo que había que crear versiones en RGB y en CMYK y había que garantizar una <strong>buena visualización</strong> en cualquier tamaño de icono.</p><h2 id="Arte-Final"><a href="#Arte-Final" class="headerlink" title="Arte Final."></a>Arte Final.</h2><p><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec2/icono-app.png" alt="previsualización del arte final: icono de una app para una plataforma de voluntario." title="Icono app"></p><p>En el <a href="/blogArtesano/documents/asignaturas/diseno-grafico/pec2/informe-pec2.pdf"><strong>el informe</strong> (2.07 MB)</a> explico los conceptos utilizados y la razón de algunas elecciones del diseño.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Calificación:&lt;/strong&gt; A (Sobresaliente).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licencia:&lt;/strong&gt; Creative Commons Atribución Compartir Igual 4.0 Inter
+      
+    
+    </summary>
+    
+      <category term="grado-multimedia" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/"/>
+    
+      <category term="asignaturas" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/"/>
+    
+      <category term="diseño gráfico" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/diseno-grafico/"/>
+    
+    
+      <category term="illustrator" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/illustrator/"/>
+    
+      <category term="gestalt" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/gestalt/"/>
+    
+      <category term="apps" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/apps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Combinacion de imágenes vectoriales y derechos de autor. ¿Cómo gestionar los derechos?</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/combinacion-de-imagenes-vectoriales-y-derechos-de-autor-%C2%BFcomo-gestionar-los-derechos.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/combinacion-de-imagenes-vectoriales-y-derechos-de-autor-¿como-gestionar-los-derechos.html</id>
+    <published>2019-02-04T06:55:34.000Z</published>
+    <updated>2019-02-10T17:28:10.363Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Calificación:</strong> A (Sobresaliente).</p><p><strong>Licencia:</strong> Creative Commons Atribución Compartir Igual 4.0 Internacional (BY-SA).</p><hr><p>En esta actividad, se nos proporcionó el enunciado en un pdf de 25 páginas, que especificaba el <strong>briefing</strong> y los <strong>requisitos técnicos</strong> que debía cumplir el arte final.</p><p>Concretamente, el enunciado especificaba:</p><h2 id="Encargo"><a href="#Encargo" class="headerlink" title="Encargo."></a>Encargo.</h2><blockquote><p>Crearemos, a partir de la combinación de dos originales digitales vectoriales de la red, una obra gráfica que ilustre un hipotético artículo periodístico sobre:</p><p><strong>La pacificación del tráfico urbano con el uso de vehículos sin motor (patinetes, bicicletas, etc.).</strong></p><p>La combinación no puede ser, pues, gratuita o una simple yuxtaposición de dos imágenes conceptualmente similares. <strong>El hipotético artículo iría a favor del uso de estos vehículos.</strong></p></blockquote><h2 id="Informacion-complementaria"><a href="#Informacion-complementaria" class="headerlink" title="Información complementaria."></a>Información complementaria.</h2><p>La dificultad añadida era que <strong>no podíamos crear nosotros la imagen</strong>, sino que teníamos que utilizar dos vectores cuyas licencias permitiesen su uso para el proyecto. Las licencias que podían tener las obras originales tenían las siguientes <strong>limitaciones</strong>:</p><ul><li><strong>No podían ser de Dominio Público</strong> o su equivalente Creative Commons CC0.</li><li>Al menos una de las imágenes debía tener <strong>licencia Creative Commons</strong>.</li><li>Ambas imágenes debían tener <strong>licencias diferentes pero compatibles</strong>.</li></ul><p>Nuestra obra final debía tener una licencia Creative Commons compatible con el uso de las licencias de las dos imágenes escogidas.</p><p>Por otra parte, debíamos <strong>aplicar alguna transformación a las imágenes</strong>, aunque no podíamos introducir elementos vectoriales nuevos.</p><h2 id="Arte-Final"><a href="#Arte-Final" class="headerlink" title="Arte Final."></a>Arte Final.</h2><p><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec1/bicicleta-pacificadora.png" alt="previsualización del arte final: una bicicleta en un carril bici en zona peatonal" title="Bicicleta Pacificadora"></p><p>Dejo aquí también <a href="/blogArtesano/documents/asignaturas/diseno-grafico/pec1/informe-pec1.pdf"><strong>el informe</strong> (2.43 MB) que acompañaba a mi trabajo</a>, en el que se explican los conceptos utilizados.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Calificación:&lt;/strong&gt; A (Sobresaliente).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Licencia:&lt;/strong&gt; Creative Commons Atribución Compartir Igual 4.0 Inter
+      
+    
+    </summary>
+    
+      <category term="grado-multimedia" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/"/>
+    
+      <category term="asignaturas" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/"/>
+    
+      <category term="diseño gráfico" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/diseno-grafico/"/>
+    
+    
+      <category term="illustrator" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/illustrator/"/>
+    
+      <category term="derechos de autor" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/derechos-de-autor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Asignatura de Diseño Gráfico del Grado en Multimedia de la UOC.</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/asignatura-de-diseno-grafico-del-grado-en-multimedia-de-la-uoc.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/grado-multimedia/asignaturas/diseno-grafico/asignatura-de-diseno-grafico-del-grado-en-multimedia-de-la-uoc.html</id>
+    <published>2019-02-04T06:55:13.000Z</published>
+    <updated>2019-02-10T17:21:12.679Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Calificación final:</strong> Sobresaliente.</p><h2 id="Experiencia-previa-y-expectativas-sobre-la-asignatura"><a href="#Experiencia-previa-y-expectativas-sobre-la-asignatura" class="headerlink" title="Experiencia previa y expectativas sobre la asignatura."></a>Experiencia previa y expectativas sobre la asignatura.</h2><p>Siempre me interesó el Diseño Gráfico y ya tenía soltura en el uso de herramientas de Adobe como <strong>Photoshop</strong> e <strong>Illustrator</strong>, aunque había usado muy poco <strong>InDesign</strong>. También había estudiado por mi cuenta conceptos de diseño como el uso de <strong>color</strong> y los <strong>contrastes</strong>.</p><p>En cuanto a mis expectativas, contaba con que partiría con cierta ventaja por el hecho de que no tendría que aprender a utilizar ningún software y por lo tanto podría centrar mis esfuerzos en <strong>aprender Diseño Gráfico <em>de verdad</em></strong>, de una forma bien estructurada y asentando las bases teóricas.</p><h2 id="Resultados-de-aprendizaje"><a href="#Resultados-de-aprendizaje" class="headerlink" title="Resultados de aprendizaje."></a>Resultados de aprendizaje.</h2><p>Aprendí mucho acerca de la <strong>psicología de la percepción</strong> y las <strong>leyes de la Gestalt</strong>, acerca de los <strong>contrastes compositivos</strong> estudiados por Donis A. Dondis, acerca el uso del color y de la tipografía y, sobre todo, acerca de la <strong>intencionalidad del diseño</strong> y la idea del <strong>diseño funcional</strong>. El diseño como una herramienta que <strong>soluciona un problema comunicativo concreto</strong> y que se puede desarrollar con un método de trabajo concreto, que no depende de la inspiración del momento ni del artista, sino que se trata de un <strong>proceso de construcción</strong> que culmina con la solución del problema.</p><h2 id="Tiempo-de-dedicacion"><a href="#Tiempo-de-dedicacion" class="headerlink" title="Tiempo de dedicación."></a>Tiempo de dedicación.</h2><p>Me resultaría imposible dar una estimación de las horas que le tuve que dedicar a la asignatura, pero mi impresión es que le dediqué muchas horas. Tiene una <strong>gran carga de trabajo</strong>, en parte porque hay que entregar con cada actividad, un informe, que puede llevar casi tanto tiempo o más que la propia actividad. También porque los enunciados son eternos: 25 páginas de enunciado equivale a mucho tiempo perdido navegando entre ellas.</p><h2 id="Trabajos"><a href="#Trabajos" class="headerlink" title="Trabajos."></a>Trabajos.</h2><p>Durante la asignatura tuve 3 Pruebas de Evaluación Contínua (PECs) y una Práctica Final, en las que tenía que aplicar los conceptos teóricos estudiados.</p><h3 id="PEC-1-Combinacion-de-imagenes-vectoriales-y-derechos-de-autor-¿Como-gestionar-los-derechos"><a href="#PEC-1-Combinacion-de-imagenes-vectoriales-y-derechos-de-autor-¿Como-gestionar-los-derechos" class="headerlink" title="PEC 1: Combinación de imágenes vectoriales y derechos de autor. ¿Cómo gestionar los derechos?"></a><a href="grado-multimedia/asignaturas/diseno-grafico/combinacion-de-imagenes-vectoriales-y-derechos-de-autor-como-gestionar-los-derechos.html">PEC 1: Combinación de imágenes vectoriales y derechos de autor. ¿Cómo gestionar los derechos?</a></h3><p><a href="grado-multimedia/asignaturas/diseno-grafico/combinacion-de-imagenes-vectoriales-y-derechos-de-autor-como-gestionar-los-derechos.html"><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec1/bicicleta-pacificadora@preview.png" alt="previsualización del arte final: una bicicleta en un carril bici en zona peatonal" title="Bicicleta Pacificadora"></a></p><p>Calificación: <strong>A (Sobresaliente)</strong>.</p><hr><h3 id="PEC-2-Composicion-grafica-basica-Disena-un-icono-de-App"><a href="#PEC-2-Composicion-grafica-basica-Disena-un-icono-de-App" class="headerlink" title="PEC 2: Composición gráfica básica: Diseña un icono de App."></a><a href="grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-basica-disena-un-icono-de-app.html">PEC 2: Composición gráfica básica: Diseña un icono de <em>App</em>.</a></h3><p><a href="grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-basica-disena-un-icono-de-app.html"><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec2/icono-app-preview.png" alt="previsualización del arte final: icono de una app para una plataforma de voluntario." title="Una mano con un corazón en su interior convertida en puntero de mapa."></a></p><p>Calificación: <strong>A (Sobresaliente)</strong>.</p><hr><h3 id="PEC-3-Composicion-grafica-avanzada-Disena-un-producto-editorial"><a href="#PEC-3-Composicion-grafica-avanzada-Disena-un-producto-editorial" class="headerlink" title="PEC 3: Composición gráfica avanzada: Diseña un producto editorial."></a><a href="grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-avanzada-disena-un-producto-editorial.html">PEC 3: Composición gráfica avanzada: Diseña un producto editorial.</a></h3><p><a href="grado-multimedia/asignaturas/diseno-grafico/composicion-grafica-avanzada-disena-un-producto-editorial.html"><img src="/blogArtesano/images/asignaturas/diseno-grafico/pec3/portada-preview.png" alt="previsualización del arte final: Folleto informativo sobre la repercusión social de los utensilios de cerámica." title="Folleto informativo para unas conferencias sobre cerámica."></a></p><p>Calificación: <strong>A (Sobresaliente)</strong>.</p><hr><h3 id="Practica-Creatividad-y-composicion-grafica-Disena-un-newsletter"><a href="#Practica-Creatividad-y-composicion-grafica-Disena-un-newsletter" class="headerlink" title="Práctica: Creatividad y composición gráfica. Diseña un newsletter."></a><a href="grado-multimedia/asignaturas/diseno-grafico/creatividad-y-composicion-grafica-disena-un-newsletter.html">Práctica: Creatividad y composición gráfica. Diseña un <em>newsletter</em>.</a></h3><p><a href="grado-multimedia/asignaturas/diseno-grafico/creatividad-y-composicion-grafica-disena-un-newsletter.html"><img src="/blogArtesano/images/asignaturas/diseno-grafico/practica/newsletter.png" alt="previsualización del arte final: Newsletter" title="Newsletter Ciclo Senderismo"></a></p><p>Calificación: <strong>A (Sobresaliente)</strong>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Calificación final:&lt;/strong&gt; Sobresaliente.&lt;/p&gt;
+&lt;h2 id=&quot;Experiencia-previa-y-expectativas-sobre-la-asignatura&quot;&gt;&lt;a href=&quot;#Experien
+      
+    
+    </summary>
+    
+      <category term="grado-multimedia" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/"/>
+    
+      <category term="asignaturas" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/"/>
+    
+      <category term="diseño gráfico" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/categories/grado-multimedia/asignaturas/diseno-grafico/"/>
+    
+    
+      <category term="illustrator" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/illustrator/"/>
+    
+      <category term="indesign" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/indesign/"/>
+    
+      <category term="gestalt" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/gestalt/"/>
+    
+      <category term="color" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/color/"/>
+    
+      <category term="tipografía" scheme="https://ArtesanoMultimedia.github.io/blogArtesano/tags/tipografia/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ArtesanoMultimedia.github.io/blogArtesano/general/hello-world.html"/>
+    <id>https://ArtesanoMultimedia.github.io/blogArtesano/general/hello-world.html</id>
+    <published>2019-01-06T05:35:39.874Z</published>
+    <updated>2019-02-09T07:13:06.256Z</updated>
+    
+    <content type="html"><![CDATA[<p>Este es el primer post de este blog, y aunque mi primera idea era eliminarlo y posteriormente pensé en dejarlo tal y como se autogenera, he decidido finalmente modificarlo un poco.</p><p>La cuestión es que este post es un buen punto de partida para lo que quiero que sea este blog: un lugar en el que publicaré contenido que creo que puede ser interesante para cualquiera que esté interesado en el mundo de la programación y del desarrollo web y multimedia en general, pero con la intención de que me sea útil a mí para poder recuperar cierta información que una vez perdí tanto tiempo en localizar…</p><p>Por eso este primer post me viene muy bien, porque por una parte me gustaría explicar las tecnologías que estoy usando para crearlo y mostrar lo fácil (y por ende, lo bonito) de crear una web de esta forma tan artesanal, y por otra parte me servirá como recordatorio si en algún momento hago un parón y cuando vuelvo al blog, no recuerdo los comandos que tenía que utilizar.</p><p>Bienvenido a <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! Consulta la <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentación</a> para más información. Si tienes algún problema con Hexo, tal vez encuentres la solución en la página de <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> o si no, puedes preguntar en <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Inicio-rapido"><a href="#Inicio-rapido" class="headerlink" title="Inicio rápido"></a>Inicio rápido</h2><h3 id="Crear-un-post"><a href="#Crear-un-post" class="headerlink" title="Crear un post"></a>Crear un post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"Mi Nuevo Post"</span></span><br></pre></td></tr></table></figure><p>o para crear un borrador:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new draft <span class="string">"Mi Nuevo Post"</span></span><br></pre></td></tr></table></figure><p>Más info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Publicar-borrador"><a href="#Publicar-borrador" class="headerlink" title="Publicar borrador"></a>Publicar borrador</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo publish <span class="string">"Mi Nuevo Post"</span></span><br></pre></td></tr></table></figure><h3 id="Ejecutar-server-local"><a href="#Ejecutar-server-local" class="headerlink" title="Ejecutar server local"></a>Ejecutar server local</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>Más info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generar-archivos-estaticos"><a href="#Generar-archivos-estaticos" class="headerlink" title="Generar archivos estáticos"></a>Generar archivos estáticos</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>Más info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Despliegue-a-GitHub-pages"><a href="#Despliegue-a-GitHub-pages" class="headerlink" title="Despliegue a GitHub pages:"></a>Despliegue a GitHub pages:</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>Más info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="Lo-subimos-a-github-com"><a href="#Lo-subimos-a-github-com" class="headerlink" title="Lo subimos a github.com"></a>Lo subimos a github.com</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ git pull</span><br><span class="line">$ git add .</span><br><span class="line">$ git commit -m <span class="string">"descripción de los cambios"</span></span><br><span class="line">$ git push</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Este es el primer post de este blog, y aunque mi primera idea era eliminarlo y posteriormente pensé en dejarlo tal y como se autogenera, 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

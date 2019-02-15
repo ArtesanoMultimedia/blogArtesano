@@ -6,7 +6,7 @@ menu:
 rss: /atom.xml
 
 # Content
-excerpt_link: Read More
+excerpt_link: Leer más (:title)
 fancybox: true
 
 # Sidebar
@@ -29,7 +29,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-134616506-1
 gauges_analytics:
 favicon: /favicon.png
 twitter:

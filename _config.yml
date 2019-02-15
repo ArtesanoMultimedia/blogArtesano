@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Artesano Multimedia
+title: Blog Artesano Multimedia
 subtitle: 
 description:
 keywords:
-author: Carlos Rodríguez
+author: Carlos Rodríguez López
+email: artesanomultimedia@gmail.com
 language: es
 timezone: Europe/Madrid
 

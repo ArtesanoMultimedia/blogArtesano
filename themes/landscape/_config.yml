@@ -3,7 +3,11 @@ menu:
   Home: /
   Sobre mí: /sobre-mi-programador-se-hace-o-se-nace-parte-1-de-3
 #  Archives: /archives
-rss: /atom.xml
+# rss: /atom.xml
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 
 # Content
 excerpt_link: Leer más (:title)

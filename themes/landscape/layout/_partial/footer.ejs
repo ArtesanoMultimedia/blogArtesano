@@ -4,7 +4,9 @@
   <% } %>
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+      <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+    <%= date(new Date(), 'YYYY') %> - <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><%= config.title %></span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://artesanomultimedia.github.io/blogArtesano" property="cc:attributionName" rel="cc:attributionURL"><%= config.author %></a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.<br />
       <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
